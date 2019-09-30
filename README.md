@@ -1,4 +1,5 @@
 # tarea_3
+﻿# tarea_3_Miguel Ramírez
 trabajo con nota en clases 28/09/2019
 
 1) R: A la hora de colocar un 0 para definir la posicion del número que buscamos,
@@ -31,5 +32,20 @@ generado en el programa como "cuento x misisipis"
 7)El codigo se adapta ingresando en la funcion for(i in listadeNumeros) para que cuente misisipi con los valores de la lista. 
 
 8)
+8)El codigo se adapta ingresando
+
+9)Con condicionales se puede generar la decision de determinar el ganador, primeramente se debe establecer la condicion de que
+la cantidad en la suma de votos no puede superar el total, puesto que sería un error matematico, además generamos el codigo en funcion
+de las votaciones Si, condicionandola que al menos sea el 30% de los votos totales para ser aprobada y dar un resultado de si o en caso de
+no llegar al quorum minimo del 30%, que el resultado sea un no.
+
+10)El programa asume esta nueva orden que sería generar un ejercicio matematico simple, otorgandole el nombre correspondiente para que asuma
+que ese es la acccion a seguir. Se genera un codigo especifico, para una operacion simple.
+
+11)Al haber visto que se puede dar una orden al programa para que genere un ejercicio, se aprovecha la funcion abs para que pueda asignar un valor
+absoluto y poder generar la ecuacion en relacion de las variables agregadas a la orden del codigo.
+
+Opcional) la funcion loop vuelve continuamente a revisar si existe o no algún dato agregado, generando un bucle en el cual va a seguir revisando
+continuamente si existe algo más que extraer de, en este caso, la lista de numeros que se guardó previamente
 
 
